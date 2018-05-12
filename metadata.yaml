@@ -1,0 +1,36 @@
+_repo: Some-War-time-LessonsThe-Soldier-s-Standards-of-Conduct--The-War-As-a-Practical-Test-of-Ameri__32608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keppel, Frederick P. (Frederick Paul)
+    aliases:
+    - Keppel, Frederick Paul
+    - Keppel, F. P. (Frederick Paul)
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '35938'
+    url: http://www.gutenberg.org/2009/agents/35938
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32608'
+  lccn: '20003590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+tableOfContents: The American soldier and his standards of conduct -- The war as a
+  practical test of American scholarship -- What have we learned?
+title: 'Some War-time Lessons
+
+  The Soldier''s Standards of Conduct; The War As a Practical Test of American Scholarship;
+  What Have We Learned?'
+url: http://www.gutenberg.org/ebooks/32608
