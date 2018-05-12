@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35938'
     url: http://www.gutenberg.org/2009/agents/35938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32608#Some-War-time-LessonsThe-Soldier-s-Standards-of-Conduct--The-War-As-a-Practical-Test-of-Ameri_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
